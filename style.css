@@ -153,7 +153,10 @@ i {
 .btn-hold {
   top: 467px;
 }
-
+.zaavar {
+  top: 480px;
+  text-align: center;
+}
 .dice {
   /* display: none; */
   position: absolute;
