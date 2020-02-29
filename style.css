@@ -86,7 +86,15 @@ body {
   right: 10px;
 }
 
-.player-current-box {
+.player-current-box-1 {
+  background-color: #eb4d4d;
+  color: #fff;
+  width: 40%;
+  margin: 0 auto;
+  padding: 12px;
+  text-align: center;
+}
+.player-current-box-2 {
   background-color: #eb4d4d;
   color: #fff;
   width: 40%;
